@@ -1,4 +1,8 @@
 # Super-Mario
-αποθετηριο : https://github.com/ioniodi/Super-Mario
-κωδικας :https://github.com/kostassakkas/Super-Mario/blob/master/index.html
+Δημιουργια νεας πιστας με tiled
+Αλλαγή των assets
+Προσθήκη μουσικής
+Προσθήκη score,ζωές
+
+repository:https://github.com/kostassakkas/Super-Mario
 εκτελέσιμο :https://kostassakkas.github.io/Super-Mario/
